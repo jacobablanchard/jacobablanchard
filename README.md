@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**jacobablanchard/jacobablanchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jacob, thanks for checking out my profile! 😁
 
-Here are some ideas to get you started:
+I'm currently looking to transition into the tech industry - most of my repositories here will be me learning the tools of the trade!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with python and C++ at my job, though I have experience with (in no particular order) 
+- Java
+- C
+- SQL
+- C# (Xamarin, and WPF for frontends also)
+- Linux
+
+---
+
+I also write and maintain pipelines at work using Jenkins, so I have DevOps experience as well!
+
+I love learning new things, so new languages, technologies, and fields definately don't scare me 😤
+
+Check me out on [Linkedin](https://linkedin.com/in/jacobablanchard)!
