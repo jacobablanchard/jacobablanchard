@@ -9,6 +9,7 @@ I mainly work with python and C++ at my job, though I have experience with (in n
 - C
 - SQL
 - C# (Xamarin, and WPF for frontends also)
+- JavaScript (Mainly with React and TypeScript)
 - Linux
 
 ---
