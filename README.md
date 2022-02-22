@@ -12,10 +12,12 @@ I mainly work with python and C++ at my job, though I have experience with (in n
 - JavaScript (Mainly with React and TypeScript)
 - Linux
 
----
-
 I also write and maintain pipelines at work using Jenkins, so I have DevOps experience as well!
 
+---
+
 I love learning new things, so new languages, technologies, and fields definately don't scare me 😤
+
+[This is my most recent project!](https://github.com/jacobablanchard/whichepisode_web)
 
 Check me out on [Linkedin](https://linkedin.com/in/jacobablanchard)!
